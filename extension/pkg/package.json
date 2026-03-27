@@ -1,0 +1,15 @@
+{
+  "name": "ghost-prompt",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "ghost_prompt_bg.wasm",
+    "ghost_prompt.js",
+    "ghost_prompt.d.ts"
+  ],
+  "main": "ghost_prompt.js",
+  "types": "ghost_prompt.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
