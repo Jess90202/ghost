@@ -1,5 +1,0 @@
-[target.wasm32-unknown-unknown]
-runner = "wasm-bindgen-test-runner"
-
-[env]
-WASM_BINDGEN_TEST_TIMEOUT = "60"
