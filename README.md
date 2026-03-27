@@ -12,7 +12,6 @@ Anonimizacion bidireccional de PII para LLMs. Todo ocurre localmente en WebAssem
   Firefox         128+             MV3 gecko, usa background scripts no service worker
 
   ¿Edge? Si. ¿Safari? No (no soporta wasm-unsafe-eval en extensiones aun).
-  ¿Bing? Bing es un sitio web, no un navegador. Si usas Edge con Bing, funciona.
 
 ## Build (PowerShell)
 
